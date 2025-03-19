@@ -1,0 +1,1 @@
+Developed a contact app like website to store the name and email of the person into the database. I have used FirebaseDB to store the name and email of the person. Functionality of these project are adding a contact to the database, searching for a specific name in the database, updating a specific name or email and deleting from database. 
